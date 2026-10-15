@@ -1,0 +1,21 @@
+📚 Capstone-08: Company Knowledge Assistant
+
+I built a RAG-based chatbot interface with Streamlit, LangChain, OpenAI and FAISS.
+
+The pipeline loads fixed local TXT and Excel files, splits their content into chunks, creates embeddings, retrieves the top three relevant passages and generates a context-grounded answer.
+
+Features:
+• Cached startup indexing
+• Policy and product-data questions
+• Supporting source passages
+• Chat history
+• An “I don't know” fallback for unsupported questions
+
+I tested it using fictional demo company data. [Use this statement only after completing the manual tests.]
+
+An important learning: RAG guardrails reduce unsupported answers but do not guarantee factuality. Document privacy, retrieval quality and no-answer testing matter.
+
+GitHub: [insert real link]
+Live app: [include only if deployed]
+
+#RAG #GenerativeAI #LangChain #Streamlit #OpenAI #FAISS #Python #AIProjects

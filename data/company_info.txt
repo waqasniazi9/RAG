@@ -1,0 +1,11 @@
+FICTIONAL DEMO DATA — NOT A REAL COMPANY
+Company: Northstar Demo Supplies
+Purpose: This invented company dataset is for a RAG classroom assignment.
+Office hours: Monday to Friday, 9:00 AM to 5:00 PM Pakistan Standard Time.
+Support email: support@example.com.
+Delivery: Standard delivery takes 3 to 5 business days after order confirmation.
+Returns: Unused products in original packaging may be returned within 14 days of delivery with proof of purchase. Contact support before returning an item.
+Warranty: Manufacturing defects are covered for 12 months from purchase. Accidental damage is not covered.
+Employee leave: Full-time employees receive 18 paid annual-leave days per year. Leave requests must be submitted to the manager at least 7 calendar days in advance.
+Escalation: Unresolved customer complaints should be sent to the support team leader through support@example.com.
+Pricing and stock: Product prices and stock counts are provided in products.xlsx. These are fictional demo values in PKR, not live inventory.
