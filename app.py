@@ -154,7 +154,7 @@ if not api_key or api_key == "your_openai_api_key_here":
         <div class="hero">
           <span class="eyebrow">✳ &nbsp; COMPANY KNOWLEDGE, MADE SIMPLE</span>
           <h1>Your company answers,<br><span class="hero-accent">all in one place.</span></h1>
-          <p>A considered, secure-feeling workspace for finding clear answers across your company's policies and product knowledge.</p>
+          <p>A clear, focused workspace for finding answers across your company's policies and product knowledge.</p>
         </div>
         """,
         unsafe_allow_html=True,
